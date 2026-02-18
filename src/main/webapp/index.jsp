@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h2><%= "Week7 Automation, the jenkins pipeline:"%><h2>
+	<h2><%= "Week6 and week7 ayyipoyindi, rendiki okkate server annamatta like instances emo exp6 and sit2, sit2 dantlo musukoni undu jenkins create chesinav anuko dash ayyithav, already credits bokka malla bokka pettukoku"%><h2>
 </body>
 </html>
